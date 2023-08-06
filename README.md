@@ -1,6 +1,6 @@
 # Node.js Authentication System
 
-This project is a complete authentication system that can be used as a starter code for creating any new application. <a href="https://real-plum-moose-hose.cyclic.app/">LIVE</a>
+This project is a complete authentication system that can be used as a starter code for creating any new application. <a href="https://vast-pear-squirrel-sari.cyclic.app/" target="_blank">LIVE</a>
 
 - Sign up with email
 - Sign in
